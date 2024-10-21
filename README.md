@@ -1,4 +1,3 @@
-Here’s a general structure for what you can include in your README.md file for your GitHub project, particularly for the CGPA Calculator you’re working on:
 
 CGPA Calculator
 
