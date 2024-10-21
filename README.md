@@ -15,7 +15,7 @@ How to Use
 
 	1.	Clone the repository:
 
-git clone https://github.com/your-username/CGPA-Calculator.git
+git clone https://github.com/your-username/CGPA-CALCULATOR.git
 
 
 	2.	Compile the program:
